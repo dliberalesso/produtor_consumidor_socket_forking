@@ -1,2 +1,3 @@
-# produtor_consumidor_socket_forking
+# (Producer * Consumer) + Sockets + Forks
+
 Produtor * Consumidor em C utilizando sockets e fork
